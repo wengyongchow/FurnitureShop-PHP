@@ -1,0 +1,9 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix} Web System and Technologies Group Assignment
+${licensePrefix} Members: Siow Yee How, Ho Eu Zheng
+${licensePrefix} Tutor: Nyuk Mee Voo
+<#if licenseLast??>
+${licenseLast}
+</#if>

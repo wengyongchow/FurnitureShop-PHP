@@ -1,0 +1,52 @@
+.container img{
+    width: 100%;
+    height: 100%;
+}
+
+.content{
+    margin-bottom: 60px;
+}
+.description{
+    padding: 20px;
+    color: black;
+}
+.description h1{                
+    font-size: 70px;
+    color: black;
+}
+label{
+    font-size: 20px;
+}
+form{
+    margin-top: 50px;
+}
+input{
+    margin: 5px;
+}
+#quantity{
+    width: 100px;
+}
+#addCart{
+    width: 300px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    border: none;
+}
+#addCart:hover{
+    background: grey;
+    border: 1px solid chocolate;
+}
+
+.footer {
+    margin: 20px;
+}
+.footer h3{
+    color: #ff3333;
+    font-weight: bold;
+}
+.content{
+    margin-top: 50px;
+}
+
+    
